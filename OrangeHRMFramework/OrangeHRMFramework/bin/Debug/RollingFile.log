@@ -1,0 +1,3 @@
+28-12-2018-17:30:11 [OrangeHRMFramework.OrangeHRMTests] [ERROR] [OpenPageUsingPOM] - Adding User1
+28-12-2018-17:30:19 [OrangeHRMFramework.PageObjects.AddUserPage] [INFO] [AddUser] - Adding user
+28-12-2018-17:30:21 [OrangeHRMFramework.PageObjects.AddUserPage] [INFO] [AddUser] - User Added Succesfully
